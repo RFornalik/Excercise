@@ -1,5 +1,5 @@
-# TitanGamexExcercise
-Test Excercise for Titan Gamez
+# Excercise
+Test Excercise with AI
 
 
 Needs regenerating visual studio project Files. 
